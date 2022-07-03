@@ -1,3 +1,3 @@
-import ThreeCanvas from './canvas'
+import Hero from './Hero'
 
-export { ThreeCanvas }
+export { Hero }

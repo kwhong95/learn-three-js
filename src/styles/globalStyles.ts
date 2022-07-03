@@ -145,4 +145,5 @@ export const Column = styled.div<IFlexProps>`
   height: ${({ height }) => (height ? height : 'auto')};
   max-height: ${({ maxHeight }) => (maxHeight ? maxHeight : 'auto')};
   min-height: ${({ minHeight }) => (minHeight ? minHeight : 'auto')};
+  border: 1px solid red;
 `
